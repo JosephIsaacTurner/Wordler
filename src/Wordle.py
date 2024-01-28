@@ -222,3 +222,4 @@ class Wordle:
 
         print("Max retries reached. Returning a frequency of 0.")
         return 0.0
+
