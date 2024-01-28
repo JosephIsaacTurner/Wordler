@@ -1,0 +1,8 @@
+bs4
+jupyter
+ipython
+ipykernel
+requests
+pandas
+numpy
+matplotlib
